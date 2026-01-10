@@ -4,7 +4,6 @@ WoodDefect Detection for automated visual inspection in wood processing, a multi
 
 ### Origin and Acquisition
 The images were collected by GoldenY through a high-resolution industrial camera under controlled diffuse LED illumination in a European sawmill.
-The original footage is publicly shared on the Roboflow Universe platform under the "CC-BY 4.0" licence.
 All data were taken from the planed surface of kiln-dried European beech (Fagus sylvatica) boards with thickness 26–50 mm. No magnification filters or digital zoom were applied, guaranteeing a native pixel resolution of ≈ 0.08 mm px⁻¹ on the wood surface.
 
 ### Volume and Dataset Splits
