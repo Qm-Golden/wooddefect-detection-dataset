@@ -36,7 +36,7 @@ Golden Y. (2025). WoodDefect Detection Dataset for Automated Visual Inspection i
   author       = {Golden Y.},
   title        = {WoodDefect Detection Dataset for Automated Visual Inspection in wood Processing},
   month        = jan,
-  year         = 2026,
+  year         = 2025,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.18205890},
   url          = {https://doi.org/10.5281/zenodo.18205890}
