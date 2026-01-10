@@ -1,0 +1,10 @@
+# dataset path
+train: D:\project\graduation\ultralytics-yolo11-20250612\ultralytics-yolo11-main\dataset3000\images\train
+val: D:\project\graduation\ultralytics-yolo11-20250612\ultralytics-yolo11-main\dataset3000\images\val
+test: D:\project\graduation\ultralytics-yolo11-20250612\ultralytics-yolo11-main\dataset3000\images\val
+
+# number of classes
+nc: 6
+
+# class names
+names: ['dry_knot', 'sound_knot', 'edge_knot',  'small_knot', 'split', 'wave']

@@ -1,0 +1,30 @@
+# System junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/Editor cache files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Python cache files (for preprocessing code)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dataset compressed files (upload to Zenodo only)
+*.zip
+*.7z
+*.rar
+*.tar.gz
+*.bz2
+
+# Local temp files
+temp/
+cache/
+logs/
