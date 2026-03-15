@@ -9,8 +9,8 @@ All data were taken from the planed surface of kiln-dried European beech (Fagus 
 ### Volume and Dataset Splits
 Total annotated images: 3785
 Current partitioning (**stratified split**, preserve global defect-class distribution):
-- Training set: 3105 images (80 %)
-- Validation set: 680 images (20 %)
+- Training set: 3105 images (82 %)
+- Validation set: 680 images (18 %)
 
 ### Task & Annotation Format
 Task: Multi-class defect detection with bounding-box labels
